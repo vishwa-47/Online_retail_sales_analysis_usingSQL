@@ -1,7 +1,7 @@
 ## About the SQL project
 In this repository you can find the dataset file which contains null values in few columns and this dataset has more than 50000+ rows, if you want to download the dataset directly from the source <a href = "https://archive.ics.uci.edu/dataset/352/online%2Bretail"> Link</a> or you can download this dataset from my Github repo <a href = "https://github.com/vishwa-47/Online_retail_sales_analysis_usingSQL/blob/main/Online%20Retail.xlsx"> Link </a>
 
-## I can give you the details of the columns available in this dataset:
+## Details of the columns available in this dataset:
 -1.InvoiceNo -  a 6-digit integral number uniquely assigned to each transaction. If this code starts with letter 'c', it indicates a cancellation this, column does not contain null values there are duplicate values in this column indicating that there were multiple  items purchased with the same invoice number
 
 -2. StockCode it also can be referred to the product code of the item which is unique but still this column contains duplicate values since the customers have purchased the same items many times and does not contain any null values.
